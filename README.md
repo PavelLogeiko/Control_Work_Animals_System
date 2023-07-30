@@ -27,7 +27,7 @@
 ![Task 4_1](https://github.com/PavelLogeiko/Control_Work_Animals_System/blob/main/Images/Control_Work_Task4_1.png)
 ![Task 4_2](https://github.com/PavelLogeiko/Control_Work_Animals_System/blob/main/Images/Control_Work_Task4_2.png)
 
-5. Выложить в терминале ubuntu.
+5. Выложить историю команд в терминале ubuntu.
 ![Task 5](https://github.com/PavelLogeiko/Control_Work_Animals_System/blob/main/Images/Control_Work_Task5.png)
    
 7. Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы).
